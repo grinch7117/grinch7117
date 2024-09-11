@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a senior software engineer ...
-- 🌱 I’m currently learning a lot! ...
+- 🔭 I’m currently working as a senior software engineer, leading a small team into developing a booking engine.
+- 🌱 I’m currently using Pyhton, but I also have a long history with PHP.
 - 📫 How to reach me: grinch7117@gmail.com
 
 
