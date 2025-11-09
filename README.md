@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a senior software engineer, leading a small team into developing a booking engine.
+- 🔭 I’m currently working as a senior software engineer, leading a compact but awesome team, into developing a booking engine.
 - 🌱 I’m currently using Pyhton, but I also have a long history with PHP.
 - 📫 How to reach me: grinch7117@gmail.com
 
@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a369863972b56590e37852?variant=dark" alt="roadmap.sh"/></a>
