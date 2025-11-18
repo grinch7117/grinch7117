@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a senior software engineer, leading a compact but awesome team, into developing a booking engine.
-- 🌱 I’m currently using Pyhton, but I also have a long history with PHP.
-- 📫 How to reach me: grinch7117@gmail.com
+- 🔭 I’m working as a senior software engineer, leading a compact but very cool and awesome team. Together we develop and maintain a booking engine for the travel industry.
+- 🌱 My main focus right now is on Python, but I also posses a long history in PHP, SQL, Elasticsearch, Redis and DevOps
+- 📫 You want to reach me: grinch7117@gmail.com or https://www.linkedin.com/in/alexandru-bihori-48a0526a/
 
 
 <!--
